@@ -12,3 +12,11 @@ library("tidyverse")
 
 #Versão 2
 #Versão:
+mutate()
+rename(
+
+)
+
+filter(
+    
+)
