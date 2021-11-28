@@ -12,3 +12,7 @@ install.packages("tidyverse")
 # Se já instalou para análises anteriores, basta carregar o pacote
 
 library("tidyverse")
+
+
+#Versão 2
+#Versão:
